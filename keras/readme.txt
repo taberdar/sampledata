@@ -1,1 +1,6 @@
-# a picture of a cat to test how well a deep learning model performs on unseen data
+# some pictures to test how well a deep learning model performs on unseen data
+# cat
+# frog
+# kitten
+# puss
+# ship
