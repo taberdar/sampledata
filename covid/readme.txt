@@ -13,8 +13,5 @@ Index(['Date', 'Cases', 'Deaths', 'Population', 'GeoId', 'DeathsPerMillion',
        'DeathsPerMillionRolling7Days'],
       dtype='object')
 
-countries.db
-Sqlite database containing country data (original in docker-databases git repo) (use sqlitebrowser to view the database)
-
-covid.db
-Sqlite database containing covid data (original in docker-databases git repo) (use sqlitebrowser to view the database)
+covid_data.db
+Sqlite database containing covid and countries data(original in docker-databases git repo) (use sqlitebrowser to view the database)
