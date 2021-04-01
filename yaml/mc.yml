@@ -1,0 +1,11 @@
+#MobEnhancer Config
+#Set the health of each Mob below 
+#1 is equal to half a heart so a Player has 20 health
+#A value of -1 will disable modifing the mob's health
+#Hostile
+ZOMBIE: 20
+SKELETON: 20
+
+#Passive
+COW: 10
+PIG: 10
